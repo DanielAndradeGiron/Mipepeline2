@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Si utiliza este software, cítelo como se indica a continuación."
+title: "Pipeline de ejemplo"
+version: 1.0.0
+date-released: 2026-10-12
+license: MIT
+authors:
+  - family-names: "Andrade-Girón"
+    given-names: "Daniel"
+    affiliation: "Universidad Nacional José Faustino Sánchez Carrión"
+repository-code: "https://github.com/USUARIO/mi-pipeline"
